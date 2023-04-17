@@ -1,0 +1,2 @@
+# setup
+my dwm setup
